@@ -1,6 +1,7 @@
 🤖 AI Message Notification Router
 
 An AI-powered agent that automatically classifies incoming messages by priority — deciding what deserves immediate attention, what can wait, and what should be silenced.
+🌐 Live Demo Try it live — no installation needed: 👉 https://ai-message-notification-router-kefuyptwktmsnkrl2papsf.streamlit.app/
 
 🏆 Built for
 
